@@ -1,2 +1,5 @@
-# starting-point
-Condensed resources for people new to Elm
+# Elm
+
+Homepage: elm-lang.org
+
+TODO: Fill in more useful stuff
